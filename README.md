@@ -8,3 +8,6 @@ https://github.com/danthegoodman1/googleAppEngine-CloudStorageUploader
 
 ### Firebase REST API examples using domain rewriting, Express, and raw firebase http triggers
 https://github.com/danthegoodman1/firebase-restapi-examples
+
+### A Flask REST API (in Python 3)
+https://github.com/danthegoodman1/test-flask-api
