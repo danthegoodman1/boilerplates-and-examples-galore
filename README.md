@@ -11,3 +11,6 @@ https://github.com/danthegoodman1/firebase-restapi-examples
 
 ### A Flask REST API (in Python 3)
 https://github.com/danthegoodman1/test-flask-api
+
+### Websockets using Python 3 Websockets and NodeJS Websockets (not socketio because socketio is only good for browser lol)
+https://github.com/danthegoodman1/python-node-websockets
