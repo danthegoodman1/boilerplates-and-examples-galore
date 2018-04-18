@@ -14,3 +14,6 @@ https://github.com/danthegoodman1/test-flask-api
 
 ### Websockets using Python 3 Websockets and NodeJS Websockets (not socketio because socketio is only good for browser lol)
 https://github.com/danthegoodman1/python-node-websockets
+
+### Triggering sounds based on events with RPi.GPIO & python
+https://github.com/danthegoodman1/iot-door-sounds
