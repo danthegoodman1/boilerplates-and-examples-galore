@@ -6,6 +6,9 @@ https://github.com/danthegoodman1/demo-websocket-chatapp
 ### Uploading files to Google Cloud Storage Buckets using Express & Multer on Google App Engine
 https://github.com/danthegoodman1/googleAppEngine-CloudStorageUploader
 
+### Uploading files to Google Cloud Storage Buckets using Express & Multer on normal NodeJS
+https://github.com/danthegoodman1/nodejs-cloudStorage-uploader/tree/master
+
 ### Firebase REST API examples using domain rewriting, Express, and raw firebase http triggers
 https://github.com/danthegoodman1/firebase-restapi-examples
 
