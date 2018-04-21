@@ -1,5 +1,10 @@
 # boilerplates-and-examples-galore
 
+### My very convinient Bash scripts
+https://github.com/danthegoodman1/bash-scripts
+
+---
+
 ### An example web socket chat app using socket.io
 https://github.com/danthegoodman1/demo-websocket-chatapp
 
