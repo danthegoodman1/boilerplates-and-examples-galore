@@ -1,6 +1,6 @@
 # boilerplates-and-examples-galore
 
-### My very convinient Bash scripts
+### My very convenient Bash scripts
 https://github.com/danthegoodman1/bash-scripts
 
 ---
