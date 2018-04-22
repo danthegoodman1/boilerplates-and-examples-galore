@@ -20,7 +20,7 @@
 
 ---
 
-### (A Flask REST API in Python 3)[https://github.com/danthegoodman1/test-flask-api]
+### [A Flask REST API in Python 3](https://github.com/danthegoodman1/test-flask-api)
 
 ---
 
