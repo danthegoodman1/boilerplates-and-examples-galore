@@ -30,3 +30,7 @@ not socketio because socketio is only good for browser lol
 ---
 
 ### [Triggering sounds based on events with RPi.GPIO & python](https://github.com/danthegoodman1/iot-door-sounds)
+
+---
+
+### [NGINX and Express load balanced on one server](https://github.com/danthegoodman1/express-nginx)
